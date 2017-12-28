@@ -11,7 +11,7 @@
 * sudo docker run -it -p 27017:27017 --name mongo mongo
 * mvn clean install 
 
-#Notes
+# Notes
 
 * Embedded mongodb is commented out in the pom.xml
 * application.yml files for both test and runtime are included even though they are set to the default values.
